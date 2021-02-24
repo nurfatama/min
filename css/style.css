@@ -110,16 +110,16 @@ header{
 .blog{
 	padding: 75px 0;
 }
-.single_blog{
+.single_ blog{
 	width: 40%;
 	border: none;
 	float: left;
 	margin-bottom: 10px;
 }
-.single_blog :nth-child(even){
+.single_ blog :nth-child(even){
 	margin-left: 6%;
 }
-.single_blog img{
+.single_ blog img{
 	margin-bottom: 25px;
 	width: 100%;
 }
